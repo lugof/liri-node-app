@@ -1,19 +1,30 @@
+
 concert-this vance%20joy 
-name of the venue: Joy Eslava
-venue location: Madrid, Spain
-date of the event: 10/25/2018
+name of the venue: Élysée Montmartre
+venue location: Paris, France
+date of the event: 10/29/2018
 
-spotify-this-song like a stone
-the band name is: Audioslave
-the song name is: Like a Stone
-preview link: https://p.scdn.co/mp3-preview/579efb4f465eeccae5aae9e7d14c0d566c8d5c8e?cid=3179968aabc44083a79201f0653c8408
-album name: Audioslave
+spotify-this-song The Sign ace of base
+the band name is: Ace of Base
+the song name is: The Sign
+preview link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=3179968aabc44083a79201f0653c8408
+album name: The Sign (US Album) [Remastered]
 
-spotify-this-song like a stone
-the band name is: Audioslave
-the song name is: Like a Stone
-preview link: https://p.scdn.co/mp3-preview/579efb4f465eeccae5aae9e7d14c0d566c8d5c8e?cid=3179968aabc44083a79201f0653c8408
-album name: Audioslave
+spotify-this-song aerials
+the band name is: System Of A Down
+the song name is: Aerials
+preview link: https://p.scdn.co/mp3-preview/17c08cf40c2f21a4b3e65fd092749a3e35e59b68?cid=3179968aabc44083a79201f0653c8408
+album name: Toxicity
+
+movie-this Mr.+Nobody
+The movie's title is: Mr. Nobody
+The movie's released year is: 2009
+The movie's IMDB rating is: 7.9
+The movie's rotten tomatoes rating is: 67%
+The movie was produced in: Belgium, Germany, Canada, France, USA, UK
+The movie's language is: English, Mohawk
+The movie's plot is: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+The movie's actors are: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
 
 movie-this the+dark+knight+rises
 The movie's title is: The Dark Knight Rises
@@ -24,3 +35,9 @@ The movie was produced in: UK, USA
 The movie's language is: English, Arabic
 The movie's plot is: Eight years after the Joker's reign of anarchy, Batman, with the help of the enigmatic Catwoman, is forced from his exile to save Gotham City, now on the edge of total annihilation, from the brutal guerrilla terrorist Bane.
 The movie's actors are: Christian Bale, Gary Oldman, Tom Hardy, Joseph Gordon-Levitt
+undefined
+spotify-this-song I Want it That Way
+the band name is: Backstreet Boys
+the song name is: I Want It That Way
+preview link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=3179968aabc44083a79201f0653c8408
+album name: The Hits--Chapter One
