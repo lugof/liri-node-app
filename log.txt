@@ -1,0 +1,26 @@
+concert-this vance%20joy 
+name of the venue: Joy Eslava
+venue location: Madrid, Spain
+date of the event: 10/25/2018
+
+spotify-this-song like a stone
+the band name is: Audioslave
+the song name is: Like a Stone
+preview link: https://p.scdn.co/mp3-preview/579efb4f465eeccae5aae9e7d14c0d566c8d5c8e?cid=3179968aabc44083a79201f0653c8408
+album name: Audioslave
+
+spotify-this-song like a stone
+the band name is: Audioslave
+the song name is: Like a Stone
+preview link: https://p.scdn.co/mp3-preview/579efb4f465eeccae5aae9e7d14c0d566c8d5c8e?cid=3179968aabc44083a79201f0653c8408
+album name: Audioslave
+
+movie-this the+dark+knight+rises
+The movie's title is: The Dark Knight Rises
+The movie's released year is: 2012
+The movie's IMDB rating is: 8.4
+The movie's rotten tomatoes rating is: 87%
+The movie was produced in: UK, USA
+The movie's language is: English, Arabic
+The movie's plot is: Eight years after the Joker's reign of anarchy, Batman, with the help of the enigmatic Catwoman, is forced from his exile to save Gotham City, now on the edge of total annihilation, from the brutal guerrilla terrorist Bane.
+The movie's actors are: Christian Bale, Gary Oldman, Tom Hardy, Joseph Gordon-Levitt
